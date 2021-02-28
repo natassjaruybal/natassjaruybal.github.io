@@ -15,7 +15,7 @@ site: distill::distill_website
 
 ## About me
 
-International development professional. Fluent in Spanish and English and a "third culture kid". Born in Ecuador and lived in ten countries: Ecuador, Tanzania, USA, Guatemala, Honduras, Ghana, Italy, Australia, Dominican Republic and United Kingdom. Studied International Studies and Management at Pepperdine University and attained a master's degree in Development Studies at the London School of Economics and Political Science. Currently working for Endeavor in Quito, Ecuador.
+International development professional. Fluent in Spanish and English. Born in Ecuador and lived in ten countries: Ecuador, Tanzania, USA, Guatemala, Honduras, Ghana, Italy, Australia, Dominican Republic and United Kingdom. Studied International Studies and Management at Pepperdine University and attained a master's degree in Development Studies at the London School of Economics and Political Science. Currently working for Endeavor in Quito, Ecuador.
 
 ## Education
 
