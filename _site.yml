@@ -3,7 +3,7 @@ title: "NATASSJA RUYBAL"
 description: |
   Personal Website for Natassja Ruybal
 output_dir: "docs"
-theme: shazia.css
+theme: natassja.css
 navbar:
   right:
     - text: ""

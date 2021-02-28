@@ -30,10 +30,10 @@ html {
   --aside-color:     rgba(0, 0, 0, 0.6);
   --fig-cap-color:   rgba(0, 0, 0, 0.6);
   /*-- Specify custom fonts ~~~ must be imported above   --*/
-  --heading-font:    Darker+Grotesque;
-  --mono-font:       Darker+Grotesque;
-  --body-font:       Darker+Grotesque;
-  --navbar-font:     Darker+Grotesque;  /* websites + blogs only */
+  --heading-font:    Dosis;
+  --mono-font:       Dosis;
+  --body-font:       Dosis;
+  --navbar-font:     Dosis;  /* websites + blogs only */
 }
 
 /*-- ARTICLE METADATA --*/
@@ -63,17 +63,17 @@ d-appendix {
 
 .distill-site-header {
   --title-size:       18px;
-  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-color:       #f6f5f3;
   --text-size:        15px;
-  --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+  --hover-color:      #5769bf;
+  --bkgd-color:       #5b92c9;
 }
 
 .distill-site-footer {
-  --text-color:       rgba(255, 255, 255, 0.8);
+  --text-color:       #f6f5f3;
   --text-size:        15px;
-  --hover-color:      white;
-  --bkgd-color:       #0F2E3D;
+  --hover-color:      #E3AFBC;
+  --bkgd-color:       #5b92c9;
 }
 
 /*-- Additional custom styles --*/
