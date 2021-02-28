@@ -1,12 +1,11 @@
 name: "."
-title: "iyo-distill"
+title: "NATASSJA RUYBAL"
 description: |
-  iyo-distill
+  Personal Website for Natassja Ruybal
 output_dir: "docs"
+theme: shazia.css
 navbar:
   right:
-    - text: "Home"
+    - text: ""
       href: index.html
-    - text: "About"
-      href: about.html
 output: distill::distill_article

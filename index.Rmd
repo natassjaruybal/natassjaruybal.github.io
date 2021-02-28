@@ -1,18 +1,40 @@
 ---
 title: "Natassja Ruybal"
-description: |
-  Welcome to my CV. 
+image: "nrp.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/in/natassjaruybal"
+  - label: Twitter
+    url: "https://twitter.com/natassjaruybal"
+  - label: Email
+    url: "mailto:natassjaruybal@gmail.com"
+output:
+  postcards::trestles
 site: distill::distill_website
 ---
 
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = FALSE)
+## About me
 
-# Learn more about creating websites with Distill at:
-# https://rstudio.github.io/distill/website.html
+International development professional. Fluent in Spanish and English and a "third culture kid". Born in Ecuador and lived in ten countries: Ecuador, Tanzania, USA, Guatemala, Honduras, Ghana, Italy, Australia, Dominican Republic, United Kingdom, and now back working in Ecuador. Studied International Studies and Management at [Pepperdine University](https://www.pepperdine.edu) and attained a master's degree in Development Studies at the [London School of Economics and Political Science](https://www.lse.ac.uk). Currently working for [Endeavor](https://endeavor.org) in Quito, Ecuador.
 
-# Learn more about publishing to GitHub Pages at:
-# https://rstudio.github.io/distill/publish_website.html#github-pages
+## Education
 
-```
+**London School of Economics and Political Science** \| London, UK
 
+MSc in Development Studies \| Sept 2018 - Aug 2019
+
+**Pepperdine University** \| Malibu, California, USA
+
+BA in International Studies and Management \| Aug 2012 - April 2016
+
+*Minor in Non-profit Management*
+
+## Experience
+
+**Endeavor** \| Entrepreneur Selection and Growth \| March 2020 - Present
+
+**PwC** \| Operations Consultant \| Sept 2019 - Feb 2020
+
+**Yspaniola Inc.** \| Princeton in Latin America Fellow \| Sept 2017-April 2018
+
+**YGAP** \| Partnerships Coordinator \| Oct 2016 -Aug 2017
