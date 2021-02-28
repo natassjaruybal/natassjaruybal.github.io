@@ -15,15 +15,15 @@ site: distill::distill_website
 
 ## About me
 
-International development professional. Fluent in Spanish and English and a "third culture kid". Born in Ecuador and lived in ten countries: Ecuador, Tanzania, USA, Guatemala, Honduras, Ghana, Italy, Australia, Dominican Republic, United Kingdom, and now back working in Ecuador. Studied International Studies and Management at [Pepperdine University](https://www.pepperdine.edu) and attained a master's degree in Development Studies at the [London School of Economics and Political Science](https://www.lse.ac.uk). Currently working for [Endeavor](https://endeavor.org) in Quito, Ecuador.
+International development professional. Fluent in Spanish and English and a "third culture kid". Born in Ecuador and lived in ten countries: Ecuador, Tanzania, USA, Guatemala, Honduras, Ghana, Italy, Australia, Dominican Republic and United Kingdom. Studied International Studies and Management at Pepperdine University and attained a master's degree in Development Studies at the London School of Economics and Political Science. Currently working for Endeavor in Quito, Ecuador.
 
 ## Education
 
-**London School of Economics and Political Science** \| London, UK
+[**London School of Economics and Political Science**](https://www.lse.ac.uk) \| London, UK
 
 MSc in Development Studies \| Sept 2018 - Aug 2019
 
-**Pepperdine University** \| Malibu, California, USA
+[**Pepperdine University**](https://www.pepperdine.edu) \| Malibu, California, USA
 
 BA in International Studies and Management \| Aug 2012 - April 2016
 
@@ -31,10 +31,16 @@ BA in International Studies and Management \| Aug 2012 - April 2016
 
 ## Experience
 
-**Endeavor** \| Entrepreneur Selection and Growth \| March 2020 - Present
+[**Endeavor**](https://endeavor.org) \| Entrepreneur Selection and Growth \| March 2020 - Present
 
-**PwC** \| Operations Consultant \| Sept 2019 - Feb 2020
+[**PwC**](http://pwc.com) \| Operations Consultant \| Sept 2019 - Feb 2020
 
-**Yspaniola Inc.** \| Princeton in Latin America Fellow \| Sept 2017-April 2018
+[**Yspaniola Inc.**](https://www.yspaniola.org)\| Princeton in Latin America Fellow \| Sept 2017-April 2018
 
-**YGAP** \| Partnerships Coordinator \| Oct 2016 -Aug 2017
+[**YGAP**](https://ygap.org) \| Partnerships Coordinator \| Oct 2016 -Aug 2017
+
+## Skills
+
+**Languages:** Native speaker in Spanish and English, advanced Italian, beginner Haitian Creole and French.
+
+**Computer:** Salesforce, MailChimp, WordPress, Pipedrive, InDesign, Photoshop, SPSS, Canva, Asana, Little Green Light, Proficient in Microsoft Office Suite (Word, Excel, PowerPoint), Apple iWork Suite (Pages, Keynote, Numbers)
